@@ -1,3 +1,3 @@
 # Profile-card
 Profile card component using HTML / CSS
-https://ocean-bluess.github.io/Profile-card/
+https://aadarsh-rai.github.io/Profile-card/
